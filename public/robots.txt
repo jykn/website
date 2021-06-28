@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: sitemap.xml
+Sitemap: https://jykn.netlify.app/sitemap.xml

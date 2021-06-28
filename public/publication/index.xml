@@ -1,38 +1,126 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Presentations | </title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Presentations</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <title>Publications | </title>
+    <link>https://jykn.netlify.app/publication/</link>
+      <atom:link href="https://jykn.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Presentations</title>
-      <link>/publication/</link>
+      <url>https://jykn.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://jykn.netlify.app/publication/</link>
     </image>
     
     <item>
-      <title>Health status trajectories among outpatients with atrial fibrillation</title>
-      <link>/publication/isoqol-2020-poster/</link>
-      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/isoqol-2020-poster/</guid>
+      <title>Nurses &#34;Seeing Forest for the Trees&#34; in the age of machine learning</title>
+      <link>https://jykn.netlify.app/publication/forest-for-the-trees/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/forest-for-the-trees/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Practical guidance for the meaningful analysis of patient-reported data stored in clinical registries</title>
-      <link>/publication/isoqol-2020-presentation/</link>
-      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/isoqol-2020-presentation/</guid>
+      <title>Interpretation and use of patient-reported outcome measures through a philosophical lens</title>
+      <link>https://jykn.netlify.app/publication/hermeneutic-interpretation/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/hermeneutic-interpretation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nurses seeing forest for the trees in the age of machine learning</title>
-      <link>/publication/duke-webinar/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/duke-webinar/</guid>
+      <title>Development of the global self-esteem measure: A pilot study</title>
+      <link>https://jykn.netlify.app/publication/global-self-esteem/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/global-self-esteem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avoidance of urinary catheterization to minimize in-hospital complications after transcatheter aortic valve implantation: An observational study</title>
+      <link>https://jykn.netlify.app/publication/urinary-catheterization/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/urinary-catheterization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative peer review process as an informal interprofessional learning tool: Findings from an exploratory study</title>
+      <link>https://jykn.netlify.app/publication/peer-review-process/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/peer-review-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining gender-related differential item functioning of the Veterans Rand 12-item Health Survey</title>
+      <link>https://jykn.netlify.app/publication/gender-related-dif/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/gender-related-dif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vancouver transcatheter aortic valve replacement clinical pathway: Minimalist approach, standardized care, and discharge criteria to reduce length of stay</title>
+      <link>https://jykn.netlify.app/publication/aortic-valve-replacement/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/aortic-valve-replacement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masculinity and fatherhood: New fathers&#39; perceptions of their female partners&#39; efforts to assist them to reduce or quit smoking</title>
+      <link>https://jykn.netlify.app/publication/masculinity/</link>
+      <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/masculinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterosexual gender relations and masculinity in fathers Who smoke</title>
+      <link>https://jykn.netlify.app/publication/heterosexual/</link>
+      <pubDate>Sat, 11 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/heterosexual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of cutting refugee health benefits in Canada</title>
+      <link>https://jykn.netlify.app/publication/refugee/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/refugee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Cuba’s example to improve primary healthcare in Canada</title>
+      <link>https://jykn.netlify.app/publication/cubas-example/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/cubas-example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appreciating the Persona paradox: Lessons from participatory design sessions with HIV&#43; gay men</title>
+      <link>https://jykn.netlify.app/publication/hiv&#43;gay-men/</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/hiv&#43;gay-men/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The clinical instructor role in nursing education: A structured literature review</title>
+      <link>https://jykn.netlify.app/publication/clinical-nursing-education/</link>
+      <pubDate>Tue, 11 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/clinical-nursing-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-esteem and the initiation of substance use among adolescents</title>
+      <link>https://jykn.netlify.app/publication/self-esteem-and-substance-use/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/self-esteem-and-substance-use/</guid>
       <description></description>
     </item>
     

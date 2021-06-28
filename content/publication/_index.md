@@ -2,8 +2,8 @@
 header:
   caption: ""
   image: ""
-title: Presentations
-view: 2
+title: Publications
+view: 1
 
-type: widget_page
+#type: widget_page
 ---

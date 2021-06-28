@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David A. Wood | </title>
+    <link>https://jykn.netlify.app/author/david-a.-wood/</link>
+      <atom:link href="https://jykn.netlify.app/author/david-a.-wood/index.xml" rel="self" type="application/rss+xml" />
+    <description>David A. Wood</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jykn.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>David A. Wood</title>
+      <link>https://jykn.netlify.app/author/david-a.-wood/</link>
+    </image>
+    
+    <item>
+      <title>Avoidance of urinary catheterization to minimize in-hospital complications after transcatheter aortic valve implantation: An observational study</title>
+      <link>https://jykn.netlify.app/publication/urinary-catheterization/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/urinary-catheterization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vancouver transcatheter aortic valve replacement clinical pathway: Minimalist approach, standardized care, and discharge criteria to reduce length of stay</title>
+      <link>https://jykn.netlify.app/publication/aortic-valve-replacement/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/aortic-valve-replacement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

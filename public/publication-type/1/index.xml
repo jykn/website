@@ -2,29 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | </title>
-    <link>/publication-type/1/</link>
-      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jykn.netlify.app/publication-type/1/</link>
+      <atom:link href="https://jykn.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 16:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jykn.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
-      <link>/publication-type/1/</link>
+      <link>https://jykn.netlify.app/publication-type/1/</link>
     </image>
     
     <item>
+      <title>Results of a side-by-side comparison of two generic PROMs: VR-12 and EQ-5D-5L</title>
+      <link>https://jykn.netlify.app/talk/pcm-analysis-webinar1/</link>
+      <pubDate>Wed, 27 Jan 2021 16:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/pcm-analysis-webinar1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Health status trajectories among outpatients with atrial fibrillation</title>
-      <link>/publication/isoqol-2020-poster/</link>
-      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/isoqol-2020-poster/</guid>
+      <link>https://jykn.netlify.app/talk/isoqol-2020-poster/</link>
+      <pubDate>Wed, 14 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/isoqol-2020-poster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical guidance for the meaningful analysis of patient-reported data stored in clinical registries</title>
-      <link>/publication/isoqol-2020-presentation/</link>
-      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/isoqol-2020-presentation/</guid>
+      <link>https://jykn.netlify.app/talk/isoqol-2020-presentation/</link>
+      <pubDate>Sun, 11 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/isoqol-2020-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring what matters: Enhancing the use and interpretation of patient-reported outcomes in healthcare delivery</title>
+      <link>https://jykn.netlify.app/talk/faculty-interview/</link>
+      <pubDate>Fri, 03 Jul 2020 12:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/faculty-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appreciating the Persona paradox: Lessons from participatory design sessions with HIV&#43; gay men</title>
+      <link>https://jykn.netlify.app/publication/hiv&#43;gay-men/</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/hiv&#43;gay-men/</guid>
       <description></description>
     </item>
     

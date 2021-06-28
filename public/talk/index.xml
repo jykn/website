@@ -1,35 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | </title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <title>Talks | </title>
+    <link>https://jykn.netlify.app/talk/</link>
+      <atom:link href="https://jykn.netlify.app/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 16:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
+      <url>https://jykn.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Talks</title>
+      <link>https://jykn.netlify.app/talk/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <title>Results of a side-by-side comparison of two generic PROMs: VR-12 and EQ-5D-5L</title>
+      <link>https://jykn.netlify.app/talk/pcm-analysis-webinar1/</link>
+      <pubDate>Wed, 27 Jan 2021 16:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/pcm-analysis-webinar1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health status trajectories among outpatients with atrial fibrillation</title>
+      <link>https://jykn.netlify.app/talk/isoqol-2020-poster/</link>
+      <pubDate>Wed, 14 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/isoqol-2020-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical guidance for the meaningful analysis of patient-reported data stored in clinical registries</title>
+      <link>https://jykn.netlify.app/talk/isoqol-2020-presentation/</link>
+      <pubDate>Sun, 11 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/isoqol-2020-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring what matters: Enhancing the use and interpretation of patient-reported outcomes in healthcare delivery</title>
+      <link>https://jykn.netlify.app/talk/faculty-interview/</link>
+      <pubDate>Fri, 03 Jul 2020 12:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/faculty-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurses &#34;Seeing Forest for the Trees&#34; in the age of machine learning</title>
+      <link>https://jykn.netlify.app/talk/duke-webinar/</link>
+      <pubDate>Thu, 19 Mar 2020 15:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/duke-webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation and use of patient-reported outcome measures through a philosophical lens</title>
+      <link>https://jykn.netlify.app/talk/bc-cancer-agency/</link>
+      <pubDate>Thu, 04 Jul 2019 13:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/bc-cancer-agency/</guid>
+      <description></description>
     </item>
     
   </channel>

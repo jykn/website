@@ -9,28 +9,33 @@
   weight = 10
 
 [[main]]
-  name = "Presentations"
-  url = "/Publication/"
+  name = "Projects"
+  url = "/project/"
   weight = 20
 
 [[main]]
   name = "Publications"
-  url = "https://scholar.google.ca/citations?user=z9ecUyQAAAAJ&hl=en"
+  url = "/Publication/"
   weight = 30
+   
+ [[main]]
+  name = "Talks"
+  url = "/talk/"
+  weight = 40
 
 [[main]]
   name = "Teaching"
   url = "/Teaching/"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Supervision"
   url = "/Supervision/"
-  weight = 50
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "https://ln.sync.com/dl/4ea730b50/u6ku6wqa-q5553hsu-xwn6in8m-wcdwuw5c"
-    weight = 60
+    url = "pdfs/CV.pdf/"
+    weight = 70

@@ -3,21 +3,21 @@ title:
 ---
 **Advisor Pledge**
 
-Finding “fit” between the supervisor and the student is one of the most important undertakings in graduate education. An {{< staticref "https://ln.sync.com/dl/96a66e8a0/8v29imxm-dpnc5bcd-cumpstyp-sjua9i22">}}advisor pledge{{< /staticref >}} has been created to help understand what you can expect from me (Adapted from {{< staticref "http://theprofessorisin.com/">}}The Professor Is In{{< /staticref >}})
+Finding “fit” between the supervisor and the student is one of the most important undertakings in graduate education. An {{< staticref "pdfs/Advisor Pledge.pdf">}}advisor pledge{{< /staticref >}} has been created  to provide a shared understanding (based on the book {{< staticref "https://theprofessorisin.com/buy-the-book/">}}The Professor Is In{{< /staticref >}}). 
 
 
 **Available to Supervise**
 
-I am currently looking for graduate students interested in methodological issues using registry-based patient-reported outcomes. These topics include: 
--	Differential item functioning 
--	Moderated mediation analyses
--	Latent variable modelling 
--	Predictive analytics 
+I am currently looking for graduate students interested in developing knowledge, interventions, and policy recommendations based on analyses of PROs. These topics include: 
+-	Differential item functioning to address equity in measurement 
+-	Moderated/mediation analyses to inform interventions focused on improving quality of life
+-	Machine learning to predict patients at high risk for poor health outcomes
+- Knowledge translation to facilitate use of PROs
 
 Interested candidates should be open to learning R and Mplus (see my publications for fit). If interested, please email me the following:
-1.	A 1pg cover letter of your research interest and why there is a good fit
-2.	A complete CV (including previous awards, research/work experiences)
-3.	Names of 2 referees with official email addresses 
+1. CV
+2. 1 page cover letter of research fit and career goal
+3. Contact information for 2 references  
 
 Please note that only shortlisted candidates will be contacted. 
 

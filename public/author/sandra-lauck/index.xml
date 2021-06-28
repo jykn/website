@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sandra Lauck | </title>
-    <link>/author/sandra-lauck/</link>
-      <atom:link href="/author/sandra-lauck/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jykn.netlify.app/author/sandra-lauck/</link>
+      <atom:link href="https://jykn.netlify.app/author/sandra-lauck/index.xml" rel="self" type="application/rss+xml" />
     <description>Sandra Lauck</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 12:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jykn.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sandra Lauck</title>
-      <link>/author/sandra-lauck/</link>
+      <link>https://jykn.netlify.app/author/sandra-lauck/</link>
     </image>
     
     <item>
       <title>Health status trajectories among outpatients with atrial fibrillation</title>
-      <link>/publication/isoqol-2020-poster/</link>
-      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/isoqol-2020-poster/</guid>
+      <link>https://jykn.netlify.app/talk/isoqol-2020-poster/</link>
+      <pubDate>Wed, 14 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/isoqol-2020-poster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical guidance for the meaningful analysis of patient-reported data stored in clinical registries</title>
-      <link>/publication/isoqol-2020-presentation/</link>
-      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/isoqol-2020-presentation/</guid>
+      <link>https://jykn.netlify.app/talk/isoqol-2020-presentation/</link>
+      <pubDate>Sun, 11 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/isoqol-2020-presentation/</guid>
       <description></description>
     </item>
     

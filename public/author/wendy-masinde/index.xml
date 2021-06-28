@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wendy Masinde | </title>
+    <link>https://jykn.netlify.app/author/wendy-masinde/</link>
+      <atom:link href="https://jykn.netlify.app/author/wendy-masinde/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wendy Masinde</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jun 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jykn.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Wendy Masinde</title>
+      <link>https://jykn.netlify.app/author/wendy-masinde/</link>
+    </image>
+    
+    <item>
+      <title>Effects of cutting refugee health benefits in Canada</title>
+      <link>https://jykn.netlify.app/publication/refugee/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/refugee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Cuba’s example to improve primary healthcare in Canada</title>
+      <link>https://jykn.netlify.app/publication/cubas-example/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/cubas-example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

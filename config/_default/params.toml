@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jykn[at]uvic.ca"
+email = "jykn2[at]uvic.ca"
 #phone = "888 888 88 88"
 
 # Address
@@ -226,7 +226,7 @@ plugins_js  = []
   # Configuration of Commento.
   [comments.commento]
     # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
-    url = ""
+    url = "https://jykngroup.com"
 
 ############################
 ## Search

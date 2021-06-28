@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jykn.netlify.app/</link>
+      <atom:link href="https://jykn.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description></description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Jan 2021 16:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jykn.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title></title>
-      <link>/</link>
+      <link>https://jykn.netlify.app/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://jykn.netlify.app/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://jykn.netlify.app/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://jykn.netlify.app/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://jykn.netlify.app/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -55,54 +55,124 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <title>Results of a side-by-side comparison of two generic PROMs: VR-12 and EQ-5D-5L</title>
+      <link>https://jykn.netlify.app/talk/pcm-analysis-webinar1/</link>
+      <pubDate>Wed, 27 Jan 2021 16:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/pcm-analysis-webinar1/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Health status trajectories among outpatients with atrial fibrillation</title>
-      <link>/publication/isoqol-2020-poster/</link>
-      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/isoqol-2020-poster/</guid>
+      <link>https://jykn.netlify.app/talk/isoqol-2020-poster/</link>
+      <pubDate>Wed, 14 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/isoqol-2020-poster/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practical guidance for the meaningful analysis of patient-reported data stored in clinical registries</title>
-      <link>/publication/isoqol-2020-presentation/</link>
-      <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/isoqol-2020-presentation/</guid>
+      <link>https://jykn.netlify.app/talk/isoqol-2020-presentation/</link>
+      <pubDate>Sun, 11 Oct 2020 12:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/isoqol-2020-presentation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nurses seeing forest for the trees in the age of machine learning</title>
-      <link>/publication/duke-webinar/</link>
-      <pubDate>Thu, 19 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/duke-webinar/</guid>
+      <title>Family Caregivers of BC Survey Advisory Committee</title>
+      <link>https://jykn.netlify.app/project/bc-family-caregivers/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/project/bc-family-caregivers/</guid>
+      <description>&lt;p&gt;I am part of a methods group for the Family Caregivers of BC to asses the impact of COVID-19.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advancing methods for patient-centred measurement in emergency department</title>
+      <link>https://jykn.netlify.app/project/pcm-study/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/project/pcm-study/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating a quality of life assessment and practice support system in homecare</title>
+      <link>https://jykn.netlify.app/project/ehipp/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/project/ehipp/</guid>
+      <description>&lt;p&gt;I am involved in a CIHR-funded study led by Rick Sawatzky (Trinity Western University) to evaluate the impact of an innovative computer tablet-based Quality of life Assessment and Practice Support System (QPSS) in homecare.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring what matters: Enhancing the use and interpretation of patient-reported outcomes in healthcare delivery</title>
+      <link>https://jykn.netlify.app/talk/faculty-interview/</link>
+      <pubDate>Fri, 03 Jul 2020 12:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/faculty-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurses &#34;Seeing Forest for the Trees&#34; in the age of machine learning</title>
+      <link>https://jykn.netlify.app/talk/duke-webinar/</link>
+      <pubDate>Thu, 19 Mar 2020 15:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/duke-webinar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronic patient-reported outcomes in clinical kidney practice</title>
+      <link>https://jykn.netlify.app/project/epro-kidney/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/project/epro-kidney/</guid>
+      <description>&lt;p&gt;In this project, my role is to examine the hypothesized intervention effects of PRO workshops by comparing trajectories of outcome measures for patients in the control and intervention site. The analytical objectives are to 1) determine whether provision of ePRO is associated with improved person-centred care, and 2) determine whether education support is associated with improved person-centred outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Response Shift in Sync Working Group</title>
+      <link>https://jykn.netlify.app/project/response-shift-in-sync/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/project/response-shift-in-sync/</guid>
+      <description>&lt;p&gt;Our historical 3 day in-person meeting took place in &lt;a href=&#34;https://kasteeloudpoelgeest.com/?lang=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Castle Oud Poelgeest&lt;/a&gt; near Leiden, Netherlands.&lt;/p&gt;
+&lt;p&gt;The group is led by Mirjam Sprangers (Amsterdam University) and Véronique Sebille (University of Nantes) with four writing team leaders (see full member list &lt;a href=&#34;https://jykn.netlify.app/pdfs/Response%20Shift%20in%20Sync%20Address%20list%20Booklet%20with%20pictures.31-7-2020.pdf&#34;&gt;here&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;Team 1 (Lara Russell)- Empirical evidence&lt;/p&gt;
+&lt;p&gt;Team 2 (Nancy Mayo)- Definition and theoretical underpinnings&lt;/p&gt;
+&lt;p&gt;Team 3 (Véronique Sébille)- Operationalization/detection&lt;/p&gt;
+&lt;p&gt;Team 4 (Richard Sawatzky)- Implications for decision making&lt;/p&gt;
+&lt;p&gt;I am part of team 4 to align results of PRO data to patient (micro), the health care organization (meso), and health policy (macro) levels using hermeneutics to gain further insight to consequent implications for decision making.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>No one size fits all for measuring what matters: Supporting the use of PRO data in healthcare</title>
+      <link>https://jykn.netlify.app/project/msfhr-reach-grant/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/project/msfhr-reach-grant/</guid>
+      <description>&lt;p&gt;We developed a webinar scheduled for early December &lt;a href=&#34;https://www.isoqol.org/education/upcoming-webinars/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISOQOL&lt;/a&gt; (stay tuned for updates). See below webinar description:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Measuring what matters: Enhancing the interpretability of PRO data in healthcare delivery&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Practical methods (e.g., case examples) to address differential item functioning (DIF) and response shift (RS) will be discussed. Participants will engage in discussion to learn about the concepts of DIF and RS, how to identify DIF and RS relevant to their practice, and different ways to address them using case studies. This discussion will be supplemented with interactive use of polls and survey questions. The contents have been co-developed by research users (clinicians and decision-support analysts).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;: Tools for measuring patients’ perceived health and quality of life such as patient-reported outcomes (or PROs) are increasingly used in clinical practice and decision-making. However, patients may not be consistent in how they interpret and respond to these questions. Differences in the meaning of PROs across patients or over time are known as differential item functioning (DIF) and response shift (RS), respectively. Studies have shown that ignoring DIF and RS could lead to erroneous healthcare decisions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Audience benefits&lt;/strong&gt;: At the end of the webinar, participants will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explain the concepts of DIF and RS and their relevance to their practice setting&lt;/li&gt;
+&lt;li&gt;Critically evaluate and consider different ways to address DIF and RS&lt;/li&gt;
+&lt;li&gt;Facilitate a more accurate assessment of patient outcomes for healthcare decision making&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Learning outcomes/objectives:&lt;/strong&gt; 
+After the webinar, the learner will be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the concepts of DIF and RS and their implications for healthcare decision-making&lt;/li&gt;
+&lt;li&gt;Identify and address DIF and RS in PRO data&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>/post/writing-technical-content/</link>
+      <link>https://jykn.netlify.app/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/post/writing-technical-content/</guid>
+      <guid>https://jykn.netlify.app/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -126,7 +196,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-987124365&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-375169248&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -136,7 +206,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-987124365&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-375169248&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -371,10 +441,26 @@ You found me!
     </item>
     
     <item>
+      <title>Interpretation and use of patient-reported outcome measures through a philosophical lens</title>
+      <link>https://jykn.netlify.app/talk/bc-cancer-agency/</link>
+      <pubDate>Thu, 04 Jul 2019 13:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/talk/bc-cancer-agency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nurses &#34;Seeing Forest for the Trees&#34; in the age of machine learning</title>
+      <link>https://jykn.netlify.app/publication/forest-for-the-trees/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/forest-for-the-trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
+      <link>https://jykn.netlify.app/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
+      <guid>https://jykn.netlify.app/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -416,9 +502,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://jykn.netlify.app/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://jykn.netlify.app/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -544,31 +630,58 @@ Three
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <title>Interpretation and use of patient-reported outcome measures through a philosophical lens</title>
+      <link>https://jykn.netlify.app/publication/hermeneutic-interpretation/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/hermeneutic-interpretation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+      <title>Development of the global self-esteem measure: A pilot study</title>
+      <link>https://jykn.netlify.app/publication/global-self-esteem/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/global-self-esteem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avoidance of urinary catheterization to minimize in-hospital complications after transcatheter aortic valve implantation: An observational study</title>
+      <link>https://jykn.netlify.app/publication/urinary-catheterization/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/urinary-catheterization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collaborative peer review process as an informal interprofessional learning tool: Findings from an exploratory study</title>
+      <link>https://jykn.netlify.app/publication/peer-review-process/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/peer-review-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining gender-related differential item functioning of the Veterans Rand 12-item Health Survey</title>
+      <link>https://jykn.netlify.app/publication/gender-related-dif/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/gender-related-dif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vancouver transcatheter aortic valve replacement clinical pathway: Minimalist approach, standardized care, and discharge criteria to reduce length of stay</title>
+      <link>https://jykn.netlify.app/publication/aortic-valve-replacement/</link>
+      <pubDate>Wed, 11 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/aortic-valve-replacement/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://jykn.netlify.app/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
+      <guid>https://jykn.netlify.app/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;ul&gt;
@@ -668,6 +781,62 @@ Three
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Masculinity and fatherhood: New fathers&#39; perceptions of their female partners&#39; efforts to assist them to reduce or quit smoking</title>
+      <link>https://jykn.netlify.app/publication/masculinity/</link>
+      <pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/masculinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterosexual gender relations and masculinity in fathers Who smoke</title>
+      <link>https://jykn.netlify.app/publication/heterosexual/</link>
+      <pubDate>Sat, 11 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/heterosexual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of cutting refugee health benefits in Canada</title>
+      <link>https://jykn.netlify.app/publication/refugee/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/refugee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Cuba’s example to improve primary healthcare in Canada</title>
+      <link>https://jykn.netlify.app/publication/cubas-example/</link>
+      <pubDate>Wed, 11 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/cubas-example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appreciating the Persona paradox: Lessons from participatory design sessions with HIV&#43; gay men</title>
+      <link>https://jykn.netlify.app/publication/hiv&#43;gay-men/</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/hiv&#43;gay-men/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The clinical instructor role in nursing education: A structured literature review</title>
+      <link>https://jykn.netlify.app/publication/clinical-nursing-education/</link>
+      <pubDate>Tue, 11 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/clinical-nursing-education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-esteem and the initiation of substance use among adolescents</title>
+      <link>https://jykn.netlify.app/publication/self-esteem-and-substance-use/</link>
+      <pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://jykn.netlify.app/publication/self-esteem-and-substance-use/</guid>
+      <description></description>
     </item>
     
   </channel>
