@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 summary: 
 tags:
-- Current
+- Past
 title: "Integrating a quality of life assessment and practice support system in homecare"
 ---
 I am involved in a CIHR-funded study led by Rick Sawatzky (Trinity Western University) to evaluate the impact of an innovative computer tablet-based Quality of life Assessment and Practice Support System (QPSS) in homecare.
