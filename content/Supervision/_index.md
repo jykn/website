@@ -9,6 +9,7 @@ Finding “fit” between the supervisor and the student is one of the most impo
 **Available to Supervise**
 
 I am currently looking for graduate students interested in developing knowledge, interventions, and policy recommendations based on analyses of PROs. These topics include: 
+- Latent trajectory analyses of PROs
 -	Differential item functioning to address equity in measurement 
 -	Moderated/mediation analyses to inform interventions focused on improving quality of life
 -	Machine learning to predict patients at high risk for poor health outcomes
