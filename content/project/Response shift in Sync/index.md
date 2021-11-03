@@ -13,7 +13,7 @@ links:
 
 summary: I am part of a research group that brings together an international and interdisciplinary team to address methodological issues in using PRO data.
 tags:
-- Current
+- Past
 title: Response Shift in Sync Working Group
 url_code: ""
 url_pdf: ""
