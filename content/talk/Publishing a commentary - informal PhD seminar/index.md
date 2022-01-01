@@ -4,7 +4,7 @@ abstract: The purpose of this informal seminar is to demystify the process of tr
 authors:
 - admin
 
-date: "2021-01-12T16:00:00Z"
+date: "2022-01-12T16:00:00Z"
 doi: ""
 featured: true
 image:
@@ -19,9 +19,9 @@ image:
 #publication_short: In *ISOQOL*
 publication_types:
 - "1"
-#publishDate: "2020-10-11"
+#publishDate: "2022-10-11"
 #slides: example
-summary: This is an informal webinar from the [University of Victoria](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) to demystify the process of transforming a course assignment into a one that is ready for publication in a peer-reviewed journal. This presentation will also provide tips and tricks to overcome writing fears and address common early career obstacles when it comes to writing. (join in [zoom](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) passcode 131726).
+summary: This is an informal webinar from the [University of Victoria  PhD seminar series](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) to demystify the process of transforming a course assignment into a one that is ready for publication in a peer-reviewed journal. This presentation will also provide tips and tricks to overcome writing fears and address common early career obstacles when it comes to writing. (join in [zoom](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) passcode 131726).
 #tags:
 #- Source Themes
 title: "Tricks of the trade: From writing a course assignment to publishing a commentary" 
