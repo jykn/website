@@ -4,7 +4,7 @@ abstract: The purpose of this informal seminar is to demystify the process of tr
 authors:
 - admin
 
-date: "2021-01-12T16:00:00Z"
+date: "2022-01-12T16:00:00Z"
 doi: ""
 featured: true
 image:
