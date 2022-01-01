@@ -21,7 +21,7 @@ publication_types:
 - "1"
 #publishDate: "2020-10-11"
 #slides: example
-summary: This is an informal webinar from the [University of Victoria](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) to present tricks of the trade: From writing a course assignment to publishing a commentary (join in [zoom](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) passcode 131726).
+summary: This is an informal webinar from the [University of Victoria](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) to demystify the process of transforming a course assignment into a one that is ready for publication in a peer-reviewed journal. This presentation will also provide tips and tricks to overcome writing fears and address common early career obstacles when it comes to writing. (join in [zoom](https://uvic.zoom.us/j/84471360852?pwd=UFRrNTh1dnluOTcxOVViWnRXdFdOQT09) passcode 131726).
 #tags:
 #- Source Themes
 title: "Tricks of the trade: From writing a course assignment to publishing a commentary" 
